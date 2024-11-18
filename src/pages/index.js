@@ -1,3 +1,5 @@
+// Website URL is https://charming-creponne-d99491.netlify.app/
+
 import Head from 'next/head'
 
 export default function Home() {
