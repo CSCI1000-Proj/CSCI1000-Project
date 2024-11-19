@@ -10,7 +10,7 @@ export default function examplePage() {
         </div>
         <img
           className='pic'
-          src='https://static.wikia.nocookie.net/villains/images/a/ad/Funny_Valentine_scars.jpg/revision/latest?cb=20180608032452'
+          src='https://i.pinimg.com/originals/9a/03/c0/9a03c04731c64aa72feb258091548c93.png'
           alt='funny valentine, 23rd president of the united states'
         />
 
